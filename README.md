@@ -39,3 +39,4 @@ Também é possível usar GitHub Pages, mas a Vercel costuma ser mais simples pa
 
 ## Personalização
 A logo fornecida foi adicionada como `public/logo.png`. As cores iniciais usam vinho, rosa e branco inspirados nela. Ajuste categorias, textos, preços e fotos conforme o catálogo real.
+Tentativa de publicação pela Vercel.
